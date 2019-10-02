@@ -37,8 +37,3 @@ The calculator will provide the number of agents required to keep service levels
 
 Using the modelled number of agents, key indicators are estimated such as probability of calls queueing and ASA. A chart is also produced to show the imapct on GOS for over/under resourcing the queue.  
 
-
-## Author and Maintainer  
-
-Dean Marchiori  
-https://github.com/deanmarchiori/qplanr
