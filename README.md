@@ -21,7 +21,7 @@ The Erlang C traffic model is an analytical model for estimating the performance
 
 - Queue sizes are unlimited.  
 
-##Inputs  
+## Inputs  
 
 - Target GOS: The desired minimum acceptable service level: % calls answered within target answer time  
 
