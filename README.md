@@ -1,5 +1,7 @@
 # qplanr
-Call Centre Resourcing Shiny App
+Call Centre Resourcing Shiny App  
+
+https://deanmarchiori.shinyapps.io/qplanr/
 
 ## About this App  
 
